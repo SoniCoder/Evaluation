@@ -1,0 +1,14 @@
+How to run:
+
+mpicc primeFinder.c -lm
+mpirun -np 2 a.out
+
+--------------------------------------------------
+
+For Cluster Execution (Utilities are provided inside utilities folder)
+
+1. Set up passwordless ssh
+2. Populate all the hosts in the hosts_file and host_file_slots.
+3. Use provided Makefile to generate the executable.
+4. Run copy_program.sh to copy the executable to every host.
+5. Execute mpirun -np 8 -hostfile host_file_slots a.out 

@@ -1,0 +1,16 @@
+About the program
+
+The Program is divided into three seperate programs.
+
+1. docMaker.cpp - Arbitrary sized random documents generator implemented as a MPI program.
+
+The generated executable needs to run on every node and it will automagically create all the documents as per specified in the source.
+To create documents it randomly picks words from a specified wordlist until the specified wordcount is reached.
+
+To change the number of documents created and the size of each document, modify docwlen and docn variables inside docMaker.cpp appropriately.
+
+The convention for naming documents is "doc-i" where i goes from 0 to n-1 where n is document count.
+
+2. indexer.cpp - 
+
+3. indexMerger.cpp
