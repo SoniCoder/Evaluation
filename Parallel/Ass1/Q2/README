@@ -51,7 +51,7 @@ The format is the same as that of local index.
 For Cluster Execution (Utilities are provided inside utilities folder)
 
 1. Set up passwordless ssh
-2. Populate all the hosts in the hosts_file and host_file_slots.
-3. Use provided Makefile to generate the executable.
-4. Run copy_program.sh to copy the executable to every host.
-5. Execute mpirun -np 8 -hostfile host_file_slots a.out 
+2. Populate all the hosts in the hosts_file.
+3. Use provided Makefile to generate the three executables - docMaker, indexer and indexMerger.
+4. Run copy_program.sh to copy the executables, wordlist and stopwordlist to every host.
+5. Execute the three executables manually using mpirun or use the provided run.sh file.
