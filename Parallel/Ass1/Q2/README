@@ -11,6 +11,37 @@ To change the number of documents created and the size of each document, modify 
 
 The convention for naming documents is "doc-i" where i goes from 0 to n-1 where n is document count.
 
-2. indexer.cpp - 
+2. indexer.cpp - Local index generator for every node.
 
-3. indexMerger.cpp
+The indexer reads each document word by word and stores the count, document name along with the freuqency of each word in the form of a hashtable.
+Finally, the hash table is written persistently in a file named index.
+
+The format of each index is - Lots of Lines where each line contains information about a single word
+word freq0 nodeid0 docid0 freq1 nodeid1 docid1 ... and so on
+The frequencies are stored in descending order.
+
+So, in summary using this index we can instantly locate where exactly most occurence of it exists, second most occurence and so on.   
+
+3. indexMerger.cpp - Global index generator by merging all local indices implemented as an MPI Program.
+
+It works by merging indices step by step until all are merged and final index is stored at Process 0.
+
+An illustration is shown below:
+
+Consider 4 machines
+
+0 1 2 3
+
+In first step index0 and index1 are merged and at the same time index2 and index3 are also merged.
+This is done by 1 sending its index to 0 and 3 sending to 2.
+So we are left with the following nodes:
+
+0   2
+
+Now in the second step 2 sends it index to 0 and 0 merges its own index with 2's index.
+
+0
+
+Finally, we are left with 0 and this index stores the global index.
+
+The format is the same as that of local index.
