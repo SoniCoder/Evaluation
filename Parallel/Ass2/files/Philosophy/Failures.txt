@@ -1,0 +1,8 @@
+Should you feel guilty after a failure?
+
+Absolutely no - Guilt is a feeling meant for knowing and correcting reason for a failure. As soon as you know the reason, the guilt is gone.
+
+Why do failures occur?
+Failures occur when a procedure is not correct and hence it gives the wrong results.
+If one knows the full procedure beforehand that is guaranteed to work on any input, there won't be any failure.
+But since examinations contain tasks whose sub-routines we are not aware of, results will not be 100% mostly.

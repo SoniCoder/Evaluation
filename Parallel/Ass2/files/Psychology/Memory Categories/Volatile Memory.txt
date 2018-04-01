@@ -1,0 +1,3 @@
+Brain also has volatile and non-volatile memory components. We forget stuff because we haven't transferred it to the non-volatile portion so we try to restart the procedure from wherever we remember last which is not always successful. The pointer information that we try to remember might also have been volatile so we need to go even back.
+
+Inability to recall sufficiently back may cause that information to never return.

@@ -1,0 +1,85 @@
+How the architecture of World may be organized - 
+{
+	A computer that runs the main function of multiple objects in parallel.
+	Naming these objects - <Quanto>
+	Each quanto store its own velocity vector and position vector(Frame of 	reference exists).
+	These vectors have 3 components.
+}
+Where is this architecture implemented?
+Ans. In a different World which is also implemented through same architecture.
+
+Who is GOD? - The implementer
+
+There is no final goal in the world because you can figure out how things are working but cannot do more than that. 
+And do you even care to figure it out?
+Yes maybe... but why? Bacause given the effect you are trying to determine the cause i.e. Inputs/Output pairs -> Procedure.
+This is like a Game!
+With "set of rules" trying to get better.
+
+
+Reason for living: Awesome to be able to figure out so much with such a small set of resources within. Then use the "resources" of the environment.
+
+Veg vs Non-Veg
+
+->Chicken - so few resources, yet should be allowed to do as it wants just like us.
+
+->We are better so maybe we can collectively do more but we shouldn't kill them just because we can. (Useless)
+
+->Eating something as food should be done with its "permission".
+
+->Why eat chicken when you can eat plants - Highly concentrated food with max protein.(But is it necessary to get dense protien? - Maybe yes, since you can do better when you have all the tools inside you.)
+
+->Why eat plants and spare chicken? - Shouldn't we take permission from plants as well? They also have life...
+Fruits? They don't feel pain/(desires), so okay to eat.
+The right to live - Must not be harmed because it can explore with its given set of resources.
+
+->What do we eat then if we can't eat plants? Ans. We got to eat something to survive as the most intelligent species known to mankind so far.
+
+->Pain? (Just a feeling but should be avoided since you're taking the right to live anyway)
+
+-> Respect for food! You have taken its right to live! Don't waste.
+
+----------------------------------------------------------------------
+
+Problem with current world
+
+Know  Input/Output but no knowledge of the driving force.
+Chess - Specified(Discretized) Rules - Steps/Positions all logical and known. Really? We see it so we believe it but how can you be sure?
+Would you instead want a world where you knew everything? Wouldn't it be boring? Then there will be nothing to figure out.
+Chess Players - If both people knew everything then theoretically they'd already know who will win! (No use)
+But if people don't have sufficient knowledge but the rules of the game are fixed then there is no clue who'll win. 
+
+Objective of living?
+What of people who don't "want" to figure out anything?
+Why even figure out? - (If there is already a way to perceive it)
+
+"Probability makes things interesting!"
+
+Truly in this world there is no final goal! What is the use of knowing something that is known to someone.
+
+
+Consciousness(Processor) vs Rest of hardware (Sometimes helping but sometimes limiting)
+
+The current harware is messy (distractions bring you down)(someone people cant think this much cuz of lack of some preset hardware maybe)(some are given more of some abilities, some are given less)
+
+
+People/Things (Combine all abilities known to existence) -:> Ultimate form
+
+
+But why is this world existing? Because someone made it. If someone wouldn't have understood all of it then who else would have.
+
+
+We are still evolving - Waiting for some smart specie to recreate this world.
+
+But is there a need? It exists so someone made it! But was he right?
+Will someone have the capability to recreate it! Yes eventually someone should be able to.
+
+
+View 1) Maybe GOD wants something from the one who gets "enlightened" but why should the enlightened one help GOD when he "created him for his own purpose and provided pain"(selfishness). But if he needed(is there really a need for anything?) to (through giving rewards,etc is it fair?). Everyone has a objective in life. After death, he is prolly not done for. (Vague)
+
+View 2) Life - No clear objective. Don't know what to do.
+
+
+To know whether there is an objective of life - Latest Objective.
+
+Time Makes Things Pretty confusing - I need to clear time's interpretation

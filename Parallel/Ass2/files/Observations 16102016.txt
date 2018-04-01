@@ -1,0 +1,21 @@
+->Concentration
+
+While processing, we produce VSTM(Very Short Term Memory), if you don't save these so called context registers, you will lose (effectively break the concentration) them and will need to reprocess them (time consuming).
+To improve concentration the following can be done:
+1. Ability to keep a lot of these context registers in mind for sufficiently long time. These will be ofcourse limited so you can't possibly think about everything at all times.
+2. Ability to avoid context switches if you don't want to.
+
+Its like interrupts, situation should decide what should be the criteria for interrupts that imply context switches.
+
+
+->Impossible Tasks
+
+Every kind of processing, including learning takes time. There is most likely
+going lowed bound on the time needed for some task given some set of skills (atleast a probability based model), so if time left is less than this lower bound, then the task becomes an impossible one.
+
+-> Equivalence of people (An implication of fairness as in probabilistic mathematics)
+
+
+-> Difference between various animals.... All have set of resources some have few some have equal but different as so on and they all can do processing to certain extents. So, they become equal. Maybe this is the way because they get a different perspective to think from and with different set of resources.
+
+-> Death occurs when those critical neurons holding the soul lose oxygen. Lot of pain doesn't mean death.

@@ -1,0 +1,7 @@
+We have agreed upon certain things. We use high level stuff but they have implied underlying fundamentals.
+
+
+A word is an object, don't look stuff as word
+
+Object - A standalone entity
+*	Objects can be related somehow

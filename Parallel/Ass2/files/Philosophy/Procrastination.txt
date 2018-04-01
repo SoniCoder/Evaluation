@@ -1,0 +1,3 @@
+Our system procrastinates or completely eliminate tasks which it doesn't consider immediately important. This is done in order to save energy required for computations and physical work.
+
+Solution - Following a schedule which has deadlines involved solves this issue.s
